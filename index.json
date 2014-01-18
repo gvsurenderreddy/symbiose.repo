@@ -1,0 +1,15 @@
+[{
+    "title": "Test", 
+    "description": "Just a test !", 
+    "url": "", 
+    "version": "1.0", 
+    "name": "test", 
+    "license": "WTF", 
+    "size": 10796, 
+    "subtitle": "", 
+    "hasScripts": false, 
+    "depends": "", 
+    "extractedSize": 4, 
+    "maintainer": "Simon Ser", 
+    "updateDate": "2013-11-24 17:29:14"
+}]
