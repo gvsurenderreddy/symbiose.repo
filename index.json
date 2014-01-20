@@ -1,15 +1,1 @@
-[{
-    "title": "Test", 
-    "description": "Just a test !", 
-    "url": "", 
-    "version": "1.0", 
-    "name": "test", 
-    "license": "WTF", 
-    "size": 10796, 
-    "subtitle": "", 
-    "hasScripts": false, 
-    "depends": "", 
-    "extractedSize": 4, 
-    "maintainer": "Simon Ser", 
-    "updateDate": "2013-11-24 17:29:14"
-}]
+[{"depends": "", "description": "Just a test !", "extractedSize": 4, "hasScripts": false, "license": "WTF", "maintainer": "Simon Ser", "name": "test", "size": 10796, "subtitle": "", "title": "Test", "updateDate": "2013-11-24 17:29:14", "url": "", "version": "1.0"}, {"description": "Brackets is an open source code editor for web designers and front-end developers.", "extractedSize": 36300332, "hasScripts": false, "license": "MIT", "maintainer": "Simon Ser", "name": "brackets", "size": 10802741, "subtitle": "", "title": "Brackets", "updateDate": "2014-01-20 21:10:38", "url": "http://brackets.io", "version": "0.35"}]
